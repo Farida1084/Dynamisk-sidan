@@ -1,0 +1,47 @@
+{
+"employment": [
+    {
+        "time": "2021 - 2022",
+        "jobTitle": "Läxhjälp",
+        "location": "Stockholm",
+        "text": "Jag hjälper elever i behov av hjälp på Franska"
+    },
+    {
+        "time": "2016 - 2022",
+        "jobTitle": "Undersköterska ",
+        "location": "Stockholm",
+        "text": "Jag har jobbat på tre olika företag alla dessa år "
+    },
+    {
+        "time": "2015 -2016",
+        "jobTitle": "Försäljare",
+        "location": "Stockholm",
+        "text": "Gratiae Organic Beauty by Nature"
+    }
+],
+"education": [
+    
+    "2022 - Nuvarande  Frontend Mobil och Webb på Chas Academy",
+
+    "2019 - 2020  Tekniskt Basåret (Matematik, Fysik,Kemi) på Kungliga Tekniska Högskolan",
+
+    "2016 - 2018  Grundläggande behörighet på Åsö gymnasiet",
+
+    "2014 - 2016  Undersköterskeutbildning på Sweja Kunskapetcenter ",
+
+    "2011 - 2013  Svenska För Invandrare påLernia Skolan "
+  
+       
+],
+
+"internships": [
+    {
+        "companyName": "Åhlens",
+        "text": "Ansvar i kassan"
+    },
+    {
+        "companyName": "Danderyd Sjukhus",
+        "text": "På en gynekologisk akut avdelning"
+    }
+]
+}
